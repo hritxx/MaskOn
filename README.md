@@ -30,13 +30,13 @@ MaskOn is a project designed to assist in enforcing mask-wearing policies by aut
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/maskon.git
+   git clone https://github.com/hritxx/MaskOn.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd maskon
+   cd MaskOn
    ```
 
 3. Install the required Python packages:
